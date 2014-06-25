@@ -1,0 +1,1 @@
+<?php $config = array('mysql:host=localhost;dbname=todoapp', 'root', 'root');

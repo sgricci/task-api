@@ -1,0 +1,11 @@
+{
+	"require" : {
+		"vlucas/bulletphp": "*",
+		"illuminate/database": "*"
+	},
+	"autoload": {
+		"classmap": [
+			"app/models"
+		]
+	}
+}
